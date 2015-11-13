@@ -13,3 +13,9 @@ phpize
 make
 sudo make instal
 ```
+
+# How to use
+
+```
+php -d extension=evalhook.so file.php
+```
