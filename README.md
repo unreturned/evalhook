@@ -11,7 +11,7 @@ cd evalhook
 phpize
 ./configure
 make
-sudo make instal
+sudo make install
 ```
 
 # How to use
